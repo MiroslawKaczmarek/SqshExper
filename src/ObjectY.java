@@ -3,4 +3,6 @@ public class ObjectY {
     private int x;
     private int c;
     private int v;
+    private int b;
+    private int n;
 }
