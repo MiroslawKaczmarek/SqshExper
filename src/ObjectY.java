@@ -3,4 +3,9 @@ public class ObjectY {
     private int x;
     private int c;
     private int v;
+    private String a;
+    private String s;
+    private String d;
+    private String f;
+    private String g;
 }
