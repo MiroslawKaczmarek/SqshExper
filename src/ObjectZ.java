@@ -8,4 +8,6 @@ public class ObjectZ {
     private int a4;
     private long w1;
     Date d1;
+    String q1;
+    String q2;
 }
