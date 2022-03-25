@@ -4,5 +4,6 @@ public class ObjectX {
     private int c;
     private int d;
     private int e;
+    private int z;
 }
 
