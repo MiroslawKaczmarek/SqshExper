@@ -8,4 +8,6 @@ public class ObjectZ {
     Date d1;
     String q1;
     String q2;
+    String q3;
+    String q4;
 }
