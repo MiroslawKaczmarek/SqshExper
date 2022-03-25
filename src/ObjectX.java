@@ -3,5 +3,6 @@ public class ObjectX {
     private int b;
     private int c;
     private int d;
+    private int e;
 }
 
