@@ -13,4 +13,5 @@ public class ObjectZ {
     String q6;  //task6
     String q7; //task7
     String q8; //task8
+    String q10; //task10
 }
